@@ -1,0 +1,56 @@
+/* CSS Document */
+/*公司简介*/
+*{margin:0px;padding:0px;}
+#companyintro{width:1000px;height:460px;border:1px solid #cfcfcf;margin:40px auto;}
+#companyintro #company_top{width:1000px;height:40px;line-height:40px;background:#eeeeee;}
+#companyintro #company_top h1{color:#000000;background:url(../images/introduce1.png) no-repeat 0px 10px;padding-left:25px;position:relative;margin-left:40px;font-size:26px;}
+#companyintro #company_top h1 #company_top_rig{color:#c0c0c0;font-size:18px;background:url(../images/companyintro3.png) no-repeat 0px 10px; position:absolute;top:2px;right:30px;padding-left:25px;}
+#companyintro #company_bottom{width:1000px;height:420px;}
+#companyintro #company_bottom #company_btm_left{float:left;width:200px;height:420px;}
+#companyintro #company_bottom #company_btm_left ul{list-style:none;width:200px;height:420px;text-align:center;border-top:1px solid #cfcfcf;
+border-right:1px solid #cfcfcf;}
+#companyintro #company_bottom #company_btm_left ul li{width:180px;height:30px;margin-top:20px;margin-left:10px;}
+#companyintro #company_bottom #company_btm_left ul li a{display:block;color:#9b9fa2;text-decoration:none;font-size:24px;font-weight:bold;target:_self;}
+#companyintro #company_bottom #company_btm_left ul li a:hover,#companyintro #company_bottom #company_btm_left ul li a.selected{color:#ffffff;background:#9bcff3;height:30px;line-height:30px;}
+#companyintro #company_bottom #company_btm_right{border-top:1px solid #cfcfcf;float:left;width:800px;height:420px;position:relative;}
+#companyintro #company_bottom #company_btm_right #company_btm_right1{float:left;margin:20px 20px 0px 20px;}
+#companyintro #company_bottom #company_btm_right #company_btm_right2{position:absolute;bottom:25px;right:600px;}
+#companyintro #company_bottom #company_btm_right #company_btm_right3{padding:20px 0px 5px 0px;}
+#companyintro #company_bottom #company_btm_right #company_btm_right4{color:#ffa328;margin-bottom:20px;}
+#companyintro #company_bottom #company_btm_right .company_btm_right5{color:#646464;font-size:15px;line-heigt:25px;text-indent:20px;margin-bottom:10px;}
+#companyintro #company_bottom #company_btm_right #company_btm_right6{color:#cfcfcf;position:absolute;bottom:40px;right:20px;border-bottom:1px solid #cfcfcf;font-size:36px;}
+#companyintro #company_bottom #company_btm_right #company_btm_right7{color:#cfcfcf;position:absolute;bottom:25px;right:30px;}
+
+/*企业荣誉*/
+#companyintro #company_bottom #company_btm_right #companygrade1{margin:20px 0px 20px 20px;width:150px;color:#afafaf;}
+#companyintro #company_bottom #company_btm_right ul {list-style:none;border-bottom:3px solid #9bcfff;width:760px;height:25px;margin-left:20px;position:relative;}
+#companyintro #company_bottom #company_btm_right ul li{width:70px;height:20px;margin-right:10px;float:left;}
+#companyintro #company_bottom #company_btm_right ul li a{display:block;color:#ff9b00;font-size:18px;font-weight:bold;text-decoration:none;text-align:center;
+border-radius:5px 5px 0px 0px; }
+#companyintro #company_bottom #company_btm_right ul li a:hover,#companyintro #company_bottom #company_btm_right ul li a.companygrade2{background:#9bcff3;color:#ffffff;height:30px;line-height:30px;margin-top:-5px;}
+#companyintro #company_bottom #company_btm_right #companygrade3{position:absolute;right:25px;top:65px;color:#ff9b00;font-size:18px;font-weight:bold;}
+#companyintro #company_bottom #company_btm_right #companygrade4{width:760px;height:200px;margin-left:20px;margin-top:10px;}
+#companyintro #company_bottom #company_btm_right .companygrade5{height:25px;line-height:25px;font-size:13px;color:#646464;background:url(../images/companygrade5.png) no-repeat 0px 5px;padding-left:20px;}
+#companyintro #company_bottom #company_btm_right .companygrade6{float:right;color:#b2b2b2;}
+#companyintro #company_bottom #company_btm_right #companygrade7{margin:15px 0px 0px 20px;}
+#companyintro #company_bottom #company_btm_right #companygrade7 img{margin-right:10px;}
+
+/*核心优势*/
+#companyintro #company_bottom #company_btm_right #coreadvantage1{margin:20px 0px 5px 20px;color:#7f7f7f;}
+#companyintro #company_bottom #company_btm_right #coreadvantage2{color:#ff9b00;font-size:14px;margin:0px 0px 5px 20px;}
+#companyintro #company_bottom #company_btm_right #coreadvantage3{color:#646464;margin:0px 0px 10px 20px;font-weight:18px;text-indent:30px;width:700px;height:60px;line-height:20px;}
+#companyintro #company_bottom #company_btm_right .coreadvantage4{color:#ffffff;background:#c6ab73;width:120px;height:30px;margin:0px 0px 5px 20px;text-align:center;}
+#companyintro #company_bottom #company_btm_right .coreadvantage5{color:#646464;margin-left:20px;font-size:14px;margin-bottom:5px;}
+
+/*联系我们*/
+#companyintro #company_top #contactus_header{background:url(../images/contactus1.png) no-repeat 0px 7px;}
+#companyintro #company_bottom #company_btm_right #contactus_img{margin:20px 0px 20px 20px;}
+#companyintro #company_bottom #company_btm_right #contactus_nav ul{list-style:none;border-bottom:3px solid #9bcfff;width:560px;height:25px;margin-left:20px;position:relative;}
+#companyintro #company_bottom #company_btm_right #contactus_nav ul li{width:100px;height:20px;margin-right:10px;float:left;}
+#companyintro #company_bottom #company_btm_right #contactus_nav ul li a{display:block;color:#ff9b00;font-size:18px;font-weight:bold;text-decoration:none;text-align:center;border-radius:5px 5px 0px 0px; }
+#companyintro #company_bottom #company_btm_right #contactus_nav ul li a:hover,#companyintro #company_bottom #company_btm_right #contactus_nav ul li   a.contactus_nav_selected{background:#9bcff3;color:#ffffff;height:30px;line-height:30px;margin-top:-5px;}
+#companyintro #company_bottom #company_btm_right #contactus_bottom #contactus_btm_left{float:left;width:300px;height:160px;margin-left:20px;}
+#companyintro #company_bottom #company_btm_right #contactus_bottom #contactus_btm_left #contactus_btm_leftname{color:#309bff;margin:10px 0px 10px 0px;}
+#companyintro #company_bottom #company_btm_right #contactus_bottom #contactus_btm_left .contactus_btm_tel{color:#646464;line-height:20px;}
+#companyintro #company_bottom #company_btm_right #contactus_bottom #contactus_btm_right{float:left;width:200px;height:160px;margin-left:85px;}
+#companyintro #company_bottom #company_btm_right #contactus_bottom #contactus_btm_right #contactus_btm_rightcheck{background:url(../images/contactus5.png) no-repeat 0px 5px;color:#b3b3b3;padding-left:25px;margin:10px 0px 10px 0px;}

@@ -1,0 +1,124 @@
+/* CSS Document */
+/*品牌理念*/
+#content{
+	width:1000px; height:460px; margin:20px auto; border:1px #cfcfcf solid; margin-top:30px;}
+#content #biaoqian{
+	width:1000px;height:40px;line-height:40px;background:#eeeeee;}
+#content #biaoqian h1{
+	color:#000000;background:url(../images/img-1.jpg) no-repeat 0px 10px;padding-left:25px;position:relative;margin-left:40px;font-size:26px;}
+#content #biaoqian span{
+	color:#c0c0c0;font-size:18px;background:url(../images/companyintro3.png) no-repeat 5px 12px; position:absolute;top:0px;right:30px;padding-left:25px;} 
+#content #container{
+	width:1000px; height:420px;}
+#content #container nav{float:left;width:200px;height:420px;}
+#content #container nav ul{list-style:none;width:200px;height:420px;text-align:center;border-top:1px solid #cfcfcf;
+border-right:1px solid #cfcfcf;}
+#content #container nav ul li{width:180px;height:38px;margin-top:20px;margin-left:10px;}
+#content #container nav ul li a{display:block;color:#9b9fa2;text-decoration:none;font-size:24px;font-weight:bold;target:_self;}
+#content #container nav ul li a:hover,#content #container nav ul li a.selected,a.select{color:#ffffff;background:#9bcff3;height:38px;line-height:38px;}
+#content #container #right{
+	width:800px; float:left; border-top:1px #cfcfcf solid;}
+#content #container #right #R{
+	width:200px; height:80px; text-align:center; color:#cfcfcf; position:absolute; bottom:18px; right:18px;}
+#content #container #right #R h1{
+	border-bottom:3px #cfcfcf solid; font-size:48px;}
+#content #container #right #R h2{
+	font-size:16px; margin-top:3px;}
+
+
+
+
+/*品牌理念-公司理念*/
+#content #container #right #company_right #c_r_top{
+	height:245px;}
+#content #container #right #company_right #c_r_top #img{
+	width:235px; height:245px; background:url(../images/img-2.jpg) no-repeat; float:left; margin:15px;}
+#content #container #right #company_right #c_r_top #p{
+	float:left; width:510px; height:220px; margin-top:25px; overflow:hidden;}
+#content #container #right #company_right #c_r_top #p h1{
+	font-size:26px; color:#646464;}
+#content #container #right #company_right #c_r_top #p span{
+	font-size:16px; color:#ffb356; font-weight:normal;}
+#content #container #right #company_right #c_r_top #p p{
+	font-size:13px; text-indent:2em; margin-top:8px;}
+#content #container #right #company_right #c_r_bottom{
+	width:800px; height:140px; position:relative;}
+#content #container #right #company_right #c_r_bottom ul{
+	list-style:none; float:left;}
+#content #container #right #company_right #c_r_bottom ul li{
+	height:25px; margin-bottom:5px; line-height:25px; font-size:13px; padding-left:30px; background:url(../images/img-3.jpg) no-repeat 16px 8px;}
+#content #container #right #company_right #c_r_bottom ul li span{
+	display:block; color:#FFFFFF; background-color:#c6ab73; float:left; width:100px; height:25px; font-size:13px; line-height:25px; text-align:center; margin-right:10px;}
+
+
+
+
+/*品牌理念-管理理念*/
+#content #container #right #manage_left{
+	width:510px; margin-left:15px; float:left;}
+#content #container #right #manage_left #m_l_top{
+	margin-top:15px;}
+#content #container #right #manage_left #m_l_top h3{
+	color:#646464; font-size:24px;}
+#content #container #right #manage_left #m_l_top h4{
+	color:#ffb356; font-family:Arial, Helvetica, sans-serif; font-weight:normal;}
+#content #container #right #manage_left #nav{
+	width:510px; margin-top:12px; height:35px; border-bottom:3px #9bcfff solid;}
+#content #container #right #manage_left #nav ul{
+	width:510px; list-style:none;}
+#content #container #right #manage_left #nav ul li{
+	float:left; margin-right:8px;}
+#content #container #right #manage_left #nav ul li a{
+	color:#ffb356; text-decoration:none; border-radius:5px 5px 0px 0px; display:block; width:108px; height:35px; line-height:40px; text-align:center; font-weight:bold;}
+#content #container #right #manage_left #nav ul li a:hover,#content #container #right #manage_left #nav ul li a.blue,a.select{
+	color:#FFFFFF; background-color:#9bcfff;}
+#content #container #right #manage_left #m_l_bottom{
+	margin-top:12px; width:510px;}
+#content #container #right #manage_left #m_l_bottom ul{
+	list-style:none;}
+#content #container #right #manage_left #m_l_bottom ul li{
+	padding-left:18px; background:url(../images/companygrade5.png) no-repeat 3px 4px; height:22px; line-height:22px; font-size:12px;}
+#content #container #right #manage_left #m_l_bottom ul li a{
+	text-decoration:none; color:#000000;}
+#content #container #right #manage_left #m_l_bottom ul li span{
+	float:right;}
+#content #container #right #manage_left #m_l_bottom_2{
+	text-align:center; margin-top:20px;}
+#content #container #right #manage_left #m_l_bottom_2 a{
+	font-size:12px; text-decoration:none; color:#000000;}
+#content #container #right #manage_right{
+	float:right; position:relative; width:270px; height:416px;}
+#content #container #right #manage_right #m_r_top{
+	width:188px; height:242px; background:url(../images/img-04.jpg) no-repeat; margin-left:58px; margin-top:16px;}
+	
+	
+	
+
+/*新闻中心*/
+#content #biaoqian h1.new{
+	color:#000000;background:url(../images/img-08.jpg) no-repeat 0px 11px;padding-left:25px;position:relative;margin-left:40px;font-size:26px;}
+#content #container #right #c_n_right{
+	 width:764px; padding:18px;}
+#content #container #right #c_n_right #pictures{
+	width:764px; height:148px;}
+#content #container #right #c_n_right #pictures #building{
+	width:232px; height:148px; background:url(../images/img-05.jpg) no-repeat; float:left; border:1px solid #cfcfcf;}
+#content #container #right #c_n_right #pictures #visit{
+	width:232px; height:148px; background:url(../images/img-06.jpg) no-repeat; float:left; border:1px solid #cfcfcf; margin-left:30px; margin-right:30px;}
+#content #container #right #c_n_right #pictures #photo{
+	width:232px; height:148px; background:url(../images/img-07.jpg) no-repeat; float:left; border:1px solid #cfcfcf;}
+#content #container #right #c_n_right ul.news{
+	list-style:none; margin-top:10px; width:764px; height:180px;}
+#content #container #right #c_n_right ul.news li{
+	font-size:12px; line-height:20px; padding-left:15px; background:url(../images/companygrade5.png) no-repeat 3px 4px;}
+#content #container #right #c_n_right ul.news li img{
+	position:absolute; margin-left:8px;}
+#content #container #right #c_n_right ul.news li a{
+	text-decoration:none; color:#000000;}
+#content #container #right #c_n_right ul.news li span{
+	float:right;}
+#content #container #right #c_n_right #dibu{
+	text-align:center; margin-top:15px; width:764px; height:18px;}
+#content #container #right #c_n_right #dibu a{
+	font-size:12px; text-decoration:none; color:#000000;}
+

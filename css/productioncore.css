@@ -1,0 +1,45 @@
+/* CSS Document */
+/*产品中心*/
+*{margin:0px;padding:0px;}
+#productioncore{width:998px;height:430px;margin:40px auto;position:ralative;}
+#productioncore #pro_corehead{width:977px;height:40px;background:#eeeeee;line-height:40px;border:1px solid #cfcfcf;}
+#productioncore #pro_corehead #pro_corehead_left{background:url(../images/produce.jpg) no-repeat 20px 10px;padding:10px 0px 0px 45px;}
+#productioncore #pro_corehead #pro_corehead_right{background:url(../images/companyintro3.png) no-repeat 0px 12px;padding-left:20px;
+position:absolute;top:10px;right:200px;}
+#productioncore #pro_coremain{width:1000px;height:330px;margin:20px 0px 20px 0px;position:relative;}
+#productioncore #pro_coremain ul.pro_coremain_list{width:998px;list-style:none;padding-bottom:20px;}
+#productioncore #pro_coremain  ul.pro_coremain_list li{border:1px solid #cfcfcf;float:left;margin:0px 17px 20px 0px;height:145px;}
+#productioncore #pro_coremain  ul.pro_coremain_list li a{text-decoration:none;}
+#productioncore #pro_coremain  ul.pro_coremain_list li img{position:relative;}
+#productioncore #pro_coremain   ul.pro_coremain_list li .test{position:absolute;display:block;width:230px;height:30px;background:#d57f0d;top:120px;
+color:#ffffff;text-align:center;line-height:30px;}
+#productioncore #pro_corefooter{text-align:center;color:#646464;}
+#productioncore #pro_corefooter p a{color:#646464;text-decoration:none;}
+
+
+/*产品详情*/
+#productiondetail{width:998px;height:480px;margin:30px auto;position:ralative;border-left:1px solid #cfcfcf;border-right:1px solid #cfcfcf;
+border-bottom:1px solid #cfcfcf;}
+#productiondetail #pro_detail_head{width:998px;height:40px;background:#eeeeee;line-height:40px;border-top:1px solid #cfcfcf;border-bottom:1px solid #cfcfcf;}
+#productiondetail #pro_detail_head #pro_detail_headleft{background:url(../images/produce.jpg) no-repeat 20px 10px;padding:10px 0px 0px 45px;}
+#productiondetail #pro_detail_head #pro_detail_headright{background:url(../images/companyintro3.png) no-repeat 0px 12px;padding-left:20px;
+position:absolute;top:10px;right:200px;}
+#productiondetail #pro_detail_main{}
+#productiondetail #pro_detail_main #pro_detail_mainleft{float:left;}
+#productiondetail #pro_detail_main #pro_detail_mainleft #pro_detail_mainleft_top img{float:left;margin:0px 20px 20px 20px;}
+#productiondetail #pro_detail_main #pro_detail_mainleft #pro_detail_mainleft_top #test{float:left;margin:140px 0px 0px -250px ;z-index:2;display:block;width:230px;height:30px;background:#d57f0d;color:#ffffff;text-align:center;line-height:30px;}
+#productiondetail #pro_detail_main #pro_detail_mainleft #pro_detail_mainleft_top .projectlist{margin:20px 0px 20px 0px;width:600px;}
+#productiondetail #pro_detail_main #pro_detail_mainleft #pro_detail_mainleft_top .project{line-height:25px;color:#9b9b9b;width:600px;}
+#productiondetail #pro_detail_main #pro_detail_mainleft #clear{clear:left;}
+#productiondetail #pro_detail_main #pro_detail_mainleft #pro_detail_mainleft_bottom #nav{width:600px;list-style:none;border-bottom:2px solid #9bcfff;height:30px;margin:20px 0px 10px 20px;}
+#productiondetail #pro_detail_main #pro_detail_mainleft #pro_detail_mainleft_bottom #nav li{float:left;margin-right:20px;}
+#productiondetail #pro_detail_main #pro_detail_mainleft #pro_detail_mainleft_bottom #nav li a{text-decoration:none;color:#ff9b00;display:block;text-align:center;line-height:30px;font-size:20px;padding:0px 10px 0px 10px;}
+#productiondetail #pro_detail_main #pro_detail_mainleft #pro_detail_mainleft_bottom #nav li a:hover,a.pro_select{background:#9bcfff;color:#fff;
+height:30px;border-radius:5px 5px 0px 0px;}
+#productiondetail #pro_detail_main #pro_detail_mainleft #pro_detail_mainleft_bottom #nav_detail{width:600px;color:#646464;text-indent:20px;
+line-height:20px;margin-left:20px;}
+#productiondetail #pro_detail_main #pro_detail_mainleft #pro_detail_mainleft_bottom #nav_detail #nav_detail_more{color:#ff9b00;}
+#productiondetail #pro_detail_main #pro_detail_mainright{float:left;}
+#productiondetail #pro_detail_main #pro_detail_mainright h3{color:#ff9b00;font-size:20px;margin:20px 0px 0px 20px;}
+#productiondetail #pro_detail_main #pro_detail_mainright .img{margin:10px 0px 5px 20px;}
+#productiondetail #pro_detail_main #pro_detail_mainright img{margin-right:10px;}

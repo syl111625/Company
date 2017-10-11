@@ -1,0 +1,304 @@
+/* CSS Document */
+/*人才理念*/
+*{margin:0px;
+  padding:0px} 
+#contain{width:1000px;
+         margin:40px auto;
+		 border:#cfcfcf 1px solid;}
+#contain #ziyuan{width:1000px;
+                 height:38px;
+				 border-bottom:#cfcfcf 1px solid; 
+				 background-color:#eeeeee}
+#contain #ziyuan #ziyuan_left{background:url(../images/1.jpg) no-repeat 0 0;
+                              float:left;
+							  margin-top:10px; 
+							  font-weight:bold;
+							  font-size:18px; 
+							  letter-spacing:2px;
+							  padding-left:25px;
+							  margin-left:35px;}
+#contain #ziyuan #ziyuan_right{background:url(../images/2.jpg) no-repeat 0 0;
+                               float:right;
+							   margin-top:12px;
+							   font-size:14px;
+							   color:#a1a1a1;
+							   padding-left:20px;
+							   margin-right:20px;} 
+#contain #left{width:200px;
+               height:440px;
+			   border-right:#cfcfcf 1px solid;
+			   float:left;}
+#contain #left ul{text-align:center;
+                  list-style:none;
+				  margin-top:20px;
+				  }
+#contain #left ul li{ line-height:45px;
+                       font-size:18px;
+					   letter-spacing:2px;
+					 
+                     }
+#contain #left ul li a{text-decoration:none;
+                       diaplay:block;
+					   color:#999;
+					   padding-left:50px;
+					   padding-right:50px;
+					   font-weight:bold;
+					   padding-bottom:10px;
+					   padding-top:10px;
+                    }
+#contain #left ul li a:hover{color:#FFF; background-color:#9bcff3}
+#contain #left ul li a.fgdfh{ background-color:#9bcff3;color:#ffffff}
+#contain #right{height:440px;}
+#contain #right #right_img{ float:left;
+                           width:290px;}
+#contain #right #right_img1{ padding-left:18px;
+                             padding-top:22px;
+							 padding-right:20px;
+							 padding-top:20px;
+							 }
+#contain #right #right_img2{width:247px;
+                            height:170px;
+							border:#cfcfcf 1px solid;
+							margin:0 auto;
+							margin-top:18px;}
+#contain #right #right_text{width:500px;
+                            float:right;
+							
+							}
+#contain #right #right_text #right_top h3{color:#646464;
+                                         font-size:20px;
+										 padding-top:35px;
+										 }
+
+#contain #right #right_text #right_top p{color:#ff9b00;
+                                         font-size:15px;
+										 font-family:Arial, Helvetica, sans-serif;
+										 padding-bottom:15px;}
+										 
+.text{font-size:13px;margin-top:10px;
+      color:#646464;
+	  width:400px;}
+#contain #right #right_text #right_top ul{list-style:none;}
+#contain #right #right_text #right_top ul li{float:left;
+	                                         margin-right:26px;
+                                             line-height:30px;
+											 background-color:#c6ab73;
+											 margin-top:18px;
+											 width:140px;
+											 text-indent:17px; 
+											 
+											 } 
+#contain #right #right_text #right_top ul li a{text-decoration:none;
+                                               diaplay:block;
+											   color:#FFF;
+											   font-size:15px;}											 
+											 
+#contain #right #right_text  #right_under{ padding-top:75px;}
+#contain #right #right_text  #right_under #neirong1{font-size:13px;
+                                                    width:140px;
+													float:left;
+													line-height:20px;
+													color:#646464;
+													} 
+#contain #right #right_text  #right_under #neirong2{font-size:13px;
+                                                    width:140px;
+													float:left;
+													padding-left:30px;
+													line-height:20px;
+													color:#646464;}  
+#contain #right #right_text  #right_under #neirong3{font-size:13px;
+                                                    width:140px;
+													float:left;
+													padding-left:30px;
+													line-height:20px;
+													color:#646464;}                                 
+/*校园招聘*/
+*{margin:0px;
+  padding:0px} 
+#contain{width:1000px;
+         margin:40px auto;
+		 border:#cfcfcf 1px solid;}
+#contain #ziyuan{width:1000px;
+                 height:38px;
+				 border-bottom:#cfcfcf 1px solid; 
+				 background-color:#eeeeee}
+#contain #ziyuan #ziyuan-left{background:url(../images/1.jpg) no-repeat 0 0;
+                              float:left;
+							  margin-top:10px; 
+							  font-weight:bold;
+							  font-size:18px; 
+							  letter-spacing:2px;
+							  padding-left:25px;
+							  margin-left:35px;}
+#contain #ziyuan #ziyuan-right{background:url(../images/2.jpg) no-repeat 0 0;
+                               float:right;
+							   margin-top:12px;
+							   font-size:14px;
+							   color:#a1a1a1;
+							   padding-left:20px;
+							   margin-right:20px;} 
+#contain #left{width:200px;
+               height:420px;
+			   border-right:#cfcfcf 1px solid;
+			   float:left;}
+#contain #left ul{text-align:center;
+                  list-style:none;
+				  margin-top:20px;
+				  }
+#contain #left ul li{ line-height:45px;
+                       font-size:18px;
+					   letter-spacing:2px;
+					 
+                     }
+#contain #left ul li a{text-decoration:none;
+                       diaplay:block;
+					   color:#999;
+					   padding-left:50px;
+					   padding-right:50px;
+					   font-weight:bold;
+					   padding-bottom:10px;
+					   padding-top:10px;
+                    }
+#contain #left ul li a:hover{color:#FFF; background-color:#9bcff3;}
+#contain #left ul li a.asd{background-color:#9bcff3;color:#ffffff;}
+#contain #right{ padding-top:20px;
+                  height:400px;}
+#contain #right #right1{ width:500px;
+                        float:left;
+						padding-left:30px;}
+#contain #right #right1 h3{color:#646464;}
+#contain #right #right1 p{color:#ff9b00; 
+                          font-size:15px;
+		                  font-family:Arial, Helvetica, sans-serif;
+		                  word-spacing:2px;}
+#contain #right #right1 #biaoti1{ width:90px;
+                                 height:20px;
+								 background-color:#c6ab73 ;
+								 margin-top:15px;
+								 text-align:center;
+								 padding-top:3px;
+								 font-size:13px;
+								 color:#FFF;
+								 letter-spacing:1px;
+								 margin-bottom:10px;}
+#contain #right #right1 #biaoti2{ width:90px;
+                                 height:20px;
+								 background-color:#c6ab73 ;
+								 margin-top:25px;
+								 text-align:center;
+								 padding-top:3px;
+								 font-size:13px;
+								 color:#FFF;
+								 letter-spacing:1px;
+								 margin-bottom:10px;}
+.text{color:#646464;
+       font-size:12px;}	
+#contain #right #right2 #img1{ border-top:#cfcfcf 1px solid;
+                               width:245px;
+							   float:left;}
+#contain #right #right2 #img2{ padding-top:25px;
+                               float:left;}
+#contain #right #right2 #wenzi{ background-color:#9bcfff;
+                                 font-size:13px;
+								 width:249px;
+								 height:100px;
+								 float:left;
+								 color:#FFF;
+								 margin-top:-4px;
+								 line-height:20px;}
+/*社会招聘*/
+*{margin:0px;
+  padding:0px} 
+#contain{width:1000px;
+         margin:40px auto;
+		 border:#cfcfcf 1px solid;}
+#contain #ziyuan{width:1000px;
+                 height:38px;
+				 border-bottom:#cfcfcf 1px solid; 
+				 background-color:#eeeeee}
+#contain #ziyuan #ziyuan-left{background:url(../images/1.jpg) no-repeat 0 0;
+                              float:left;
+							  margin-top:10px; 
+							  font-weight:bold;
+							  font-size:18px; 
+							  letter-spacing:2px;
+							  padding-left:25px;
+							  margin-left:35px;}
+#contain #ziyuan #ziyuan-right{background:url(../images/2.jpg) no-repeat 0 0;
+                               float:right;
+							   margin-top:12px;
+							   font-size:14px;
+							   color:#a1a1a1;
+							   padding-left:20px;
+							   margin-right:20px;} 
+#contain #left{width:200px;
+               height:420px;
+			   border-right:#cfcfcf 1px solid;
+			   float:left;}
+#contain #left ul{text-align:center;
+                  list-style:none;
+				  margin-top:20px;
+				  }
+#contain #left ul li{ line-height:45px;
+                       font-size:18px;
+					   letter-spacing:2px;
+					 
+                     }
+#contain #left ul li a{text-decoration:none;
+                       diaplay:block;
+					   color:#999;
+					   padding-left:50px;
+					   padding-right:50px;
+					   font-weight:bold;
+					   padding-bottom:10px;
+					   padding-top:10px;
+                    }
+#contain #left ul li a:hover{color:#FFF; background-color:#9bcff3;}
+#contain #left ul li a.asd{background-color:#9bcff3;color:#ffffff;}
+#contain #right{ padding-top:20px;
+                  height:400px;}
+#contain #right #right1{ width:500px;
+                        float:left;
+						padding-left:30px;}
+#contain #right #right1 h3{color:#646464;}
+#contain #right #right1 p{color:#ff9b00; 
+                          font-size:15px;
+		                  font-family:Arial, Helvetica, sans-serif;
+		                  word-spacing:2px;}
+#contain #right #right1 #biaoti1{ width:90px;
+                                 height:20px;
+								 background-color:#c6ab73 ;
+								 margin-top:15px;
+								 text-align:center;
+								 padding-top:3px;
+								 font-size:13px;
+								 color:#FFF;
+								 letter-spacing:1px;
+								 margin-bottom:10px;}
+#contain #right #right1 #biaoti2{ width:90px;
+                                 height:20px;
+								 background-color:#c6ab73 ;
+								 margin-top:25px;
+								 text-align:center;
+								 padding-top:3px;
+								 font-size:13px;
+								 color:#FFF;
+								 letter-spacing:1px;
+								 margin-bottom:10px;}
+.text{color:#646464;
+       font-size:12px;}	
+#contain #right #right2 #img1{ border-top:#cfcfcf 1px solid;
+                               width:245px;
+							   float:left;}
+#contain #right #right2 #img2{ padding-top:25px;
+                               float:left;}
+#contain #right #right2 #wenzi{ background-color:#9bcfff;
+                                 font-size:13px;
+								 width:249px;
+								 height:100px;
+								 float:left;
+								 color:#FFF;
+								 margin-top:-4px;
+								 line-height:20px;}
+													
+

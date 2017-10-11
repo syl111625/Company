@@ -1,0 +1,55 @@
+/* CSS Document */
+*{margin:0px;padding:0px;}
+#wrapperall{width:1200px;margin:0 auto;}
+#wrapperall #header #header_top{width:1200px;height:155px;background:url(../images/logo1.png) no-repeat #303030 140px 50px;position:relative;margin-bottom:0px;
+}
+#wrapperall #header #header_top ul{width:580px;list-style:none;padding-top:100px;padding-left:250px;}
+#wrapperall #header #header_top ul li{height:35px;line-height:35px;float:left;width:80px;list-style:none;margin-right:10px;}
+#wrapperall #header #header_top ul li a{display:block;text-decoration:none;color:#fff;text-align:center;target:_self;}
+#wrapperall #header #header_top ul li a:hover,a.selecthead{background:#5aa0d7;}
+#wrapperall #header #header_top #header_call{color:#ff9900;font-size:13px;float:left;top:70px;right:100px;width:200px;height:25px;margin-left:30px;margin-top:-30px;}
+#wrapperall #header #header_top #header_call #header_call1{font-size:20px;}
+#wrapperall #header #header_top input{background:url(../images/reseach1.png) no-repeat 98% #626262;width:200px;height:30px;position:absolute;bottom:25px;right:180px;outline:none;}
+
+#wrapperall #header #header_bottom{width:1200px;height:600px;z-index:1;position:relative;overflow:hidden;}
+#wrapperall #header #header_bottom #listback{width:1200px;height:600px;background:url(../images/buttom_0.jpg);}
+#wrapperall #header #header_bottom #bottons{width:80px;height:10px;position:absolute;z-index:4;bottom:40px;left:550px;}
+#wrapperall #header #header_bottom #bottons span{border:1px solid #fff;background:#999;border-radius:50%;width:10px;height:10px;margin-right:10px;display:block;float:left;}
+#wrapperall #header #header_bottom #bottons .selected{background:#fff;}
+#wrapperall #header #header_bottom #bottons .noselected{background:#999;}
+
+#wrapperall #content #produce{width:980px;margin:35px auto;}
+#wrapperall #content #produce h1{background:url(../images/produce.jpg) no-repeat;padding-left:25px;position:ralative;margin-bottom:10px;font-size:20px;}
+
+#wrapperall #content #produce  #container { width: 960px; height: 145px; border: 3px solid #cacaca; overflow: hidden; position: relative;}
+#wrapperall #content #produce  #list { width: 2000px; height: 145px; position: absolute; z-index: 1;}
+#wrapperall #content #produce  #list img { float: left;margin-left:10px;margin-right:10px;text-align:center;}      
+#wrapperall #content #produce  .arrow { cursor: pointer; display: block; line-height: 39px;  font-size: 36px; font-weight: bold; width: 30px; height: 30px;  position: absolute; z-index: 2; top: 180px; background-color: RGBA(0,0,0,.3); color: #fff;}
+#wrapperall #content #produce  .arrow:hover { background-color: RGBA(0,0,0,.7);}
+#wrapperall #content #produce  #container:hover .arrow { display: block;}
+#wrapperall #content #produce  #prev { top:780px;right:230px;position:absolute;}
+#wrapperall #content #produce  #next { top:780px;right:180px;position:absolute;}
+
+#wrapperall #content #produce  #clear{clear:left;}
+#wrapperall #content #introduce {width:315px;height:250px;margin:40px 0px 0px 0px;float:left;}
+#wrapperall #content #introduce h1{background:url(../images/introduce1.png) no-repeat;padding-left:25px;position:relative;border-bottom:2px solid #cdcdcd;padding-bottom:5px;margin-bottom:10px;font-size:20px;}
+#wrapperall #content #introduce h1 #introduce_more{position:absolute;top:0px;right:0px;color:#ff9b00;font-weight:bold;font-size:20px;}
+#wrapperall #content #introduce #intro_img1{border:1px solid #cfcfcf;width:313px;height:138px;}
+#wrapperall #content #introduce p{color:#646464;width:315px;font-size:14px;line-height:18px;margin-top:8px;}
+#wrapperall #content #introduce p.intro_cls{text-indent:20px;}
+#wrapperall #content #introduce p #more{color:#ff9b00;font-weight:bold;font-size:16px;}
+#wrapperall #content #new {width:315px;height:250px;margin:40px 0px 0px 20px;float:left;}
+#wrapperall #content #new h1{background:url(../images/new.jpg) no-repeat;padding-left:25px;position:relative;border-bottom:2px solid #cdcdcd;padding-bottom:5px;margin-bottom:10px;font-size:20px;}
+#wrapperall #content #new h1 #introduce_more{position:absolute;top:0px;right:0px;color:#ff9b00;font-weight:bold;font-size:20px;}
+#wrapperall #content #introduce #new_img2{border:1px solid #cfcfcf;width:313px;height:138px;}
+#wrapperall #content #new p{color:#646464;width:315px;background:url(../images/new3.jpg) no-repeat 0px 8px;padding-left:15px;
+font-size:12px;line-height:18px;margin-top:8px;}
+#wrapperall #content #contact {width:315px;height:250px;margin:40px 0px 0px 15px;float:left;}
+#wrapperall #content #contact h1{background:url(../images/tel.jpg) no-repeat;padding-left:25px;position:relative;border-bottom:2px solid #cdcdcd;padding-bottom:5px;margin-bottom:10px;font-size:20px;}
+#wrapperall #content #contact h1 #introduce_more{position:absolute;top:0px;right:0px;color:#ff9b00;font-weight:bold;font-size:20px;}
+#wrapperall #content #contact #contact_img3{border:1px solid #cfcfcf;width:313px;height:138px;}
+#wrapperall #content #contact p{color:#646464;width:315px;font-size:14px;line-height:18px;margin-top:8px;}
+#wrapperall #content #clear{clear:left;}
+#wrapperall #footer{width:1200px;height:100px;text-align:center;background:#303030;margin:40px auto;}
+#wrapperall #footer p.footer_cls1{color:#b3b3b3;font-size:20px;font-weight:bold;padding-top:18px;padding-bottom:10px;}
+#wrapperall #footer p.footer_cls2{color:#cfcfcf;font-size:12px;padding-bottom:5px;}
